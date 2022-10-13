@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrXavi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Lua, C+, Laravel and python
+- 🌱 I’m currently learning C#, JS, Laravel, Lua and python
 - 📫 How to reach me: ! Xavi#5456
 
 <!---
